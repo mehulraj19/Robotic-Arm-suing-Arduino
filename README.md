@@ -4,4 +4,4 @@ This is my project of Robotic and it's applications. i have implemented this pro
 I have implemented this project on software, TinkerCad.
 
 # My Hardware Simulation circuit:
-![images/hardware.jpg]
+![](images/hardware.jpg)
